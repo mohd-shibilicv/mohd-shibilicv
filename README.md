@@ -17,7 +17,6 @@
 - 🌐 &nbsp; Django | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; postgreSQL | sqlite3 | Xampp
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; 
 
 <br>
 
