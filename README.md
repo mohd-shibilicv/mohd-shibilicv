@@ -13,9 +13,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | Java | PHP  
+- 💻 &nbsp; Python
 - 🌐 &nbsp; Django | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; postgreSQL | sqlite3 | Xampp
+- 🛢 &nbsp; postgreSQL
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
 
 <br>
