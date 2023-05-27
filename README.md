@@ -6,10 +6,10 @@
 - 🔭 &nbsp; I’m currently learning Django Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Python developer and front-end web developer.
+- 💼 &nbsp; Python developer and Full Stack development.
 - 🌱 &nbsp; Enthusiast in Machine learning and Artificial Intelligence .
 - ✍️ &nbsp; Watching lives and trying out latest in demand trends as hobbies/side hustles.
-- 🤲 &nbsp; I belive, a sincere prayer to One True God can be the ultimate solution for any stress. 
+- 🤲 &nbsp; A sincere prayer to Allah can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
