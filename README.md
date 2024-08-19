@@ -1,11 +1,10 @@
-<h2> Hey there! I'm shibili. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm shibili cv. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Django Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Bachelor's in Computer Applications.
 - 💼 &nbsp; Python developer and Full Stack development.
 - 🌱 &nbsp; Enthusiast in Machine learning and Artificial Intelligence .
 - ✍️ &nbsp; Watching lives and trying out latest in demand trends as hobbies/side hustles.
@@ -13,10 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python
-- 🌐 &nbsp; Django | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; postgreSQL
-- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
+- 💻 &nbsp; Python, JavaScript, SQL
+- 🌐 &nbsp; Django | Flask | FastAPI | React | TypeScript
+- 🛢 &nbsp; postgreSQL, MongoDB
+- 🔧 &nbsp; Visual Studio code | Docker | Git | Postman
 
 <br>
 
@@ -27,8 +26,8 @@
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/shibilicv__" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/shibilicv__/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/shibilicv__/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/muhammed-shibili-cv/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/muhammed-shibili-cv/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:mohshibilicv@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
