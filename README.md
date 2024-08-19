@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Bachelor's in Computer Applications.
-- 💼 &nbsp; Python developer and Full Stack development.
+- 💼 &nbsp; Full Stack development.
 - 🌱 &nbsp; Enthusiast in Machine learning and Artificial Intelligence .
 - ✍️ &nbsp; Watching lives and trying out latest in demand trends as hobbies/side hustles.
 - 🤲 &nbsp; A sincere prayer to Allah can be the ultimate solution for any stress. 
@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python, JavaScript, SQL
-- 🌐 &nbsp; Django | Flask | FastAPI | React | TypeScript
+- 🌐 &nbsp; Django | Flask | FastAPI | React | TypeScript | AWS
 - 🛢 &nbsp; postgreSQL, MongoDB
 - 🔧 &nbsp; Visual Studio code | Docker | Git | Postman
 
